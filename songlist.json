@@ -1,0 +1,977 @@
+{
+  "1101": {
+    "code": "1101",
+    "name": "10 Years",
+    "song": "Knives"
+  },
+  "1102": {
+    "code": "1102",
+    "name": "10 Years",
+    "song": "Shoot It Out"
+  },
+  "1103": {
+    "code": "1103",
+    "name": "10 Years",
+    "song": "Wasteland"
+  },
+  "1201": {
+    "code": "1201",
+    "name": "30 Seconds To Mars",
+    "song": "Attack"
+  },
+  "1202": {
+    "code": "1202",
+    "name": "30 Seconds To Mars",
+    "song": "Battle Of One"
+  },
+  "1203": {
+    "code": "1203",
+    "name": "30 Seconds To Mars",
+    "song": "Buddha For Mary"
+  },
+  "1204": {
+    "code": "1204",
+    "name": "30 Seconds To Mars",
+    "song": "Capricorn"
+  },
+  "1205": {
+    "code": "1205",
+    "name": "30 Seconds To Mars",
+    "song": "Savior"
+  },
+  "1206": {
+    "code": "1206",
+    "name": "30 Seconds To Mars",
+    "song": "The Fantasy"
+  },
+  "A101": {
+    "code": "A101",
+    "name": "Alexisonfire",
+    "song": "This Could Be Anywhere In The World"
+  },
+  "A201": {
+    "code": "A201",
+    "name": "Architects",
+    "song": "Holy Hell"
+  },
+  "A202": {
+    "code": "A202",
+    "name": "Architects",
+    "song": "Red Eyes"
+  },
+  "A301": {
+    "code": "A301",
+    "name": "As Everything Unfolds",
+    "song": "Flip Side"
+  },
+  "A302": {
+    "code": "A302",
+    "name": "As Everything Unfolds",
+    "song": "On The Inside"
+  },
+  "A303": {
+    "code": "A303",
+    "name": "As Everything Unfolds",
+    "song": "Stay"
+  },
+  "A304": {
+    "code": "A304",
+    "name": "As Everything Unfolds",
+    "song": "Twilight"
+  },
+  "A305": {
+    "code": "A305",
+    "name": "As Everything Unfolds",
+    "song": "Wallow"
+  },
+  "A401": {
+    "code": "A401",
+    "name": "Asking Alexandria",
+    "song": "Alone In A Room"
+  },
+  "B101": {
+    "code": "B101",
+    "name": "Bad Omens",
+    "song": "Concrete Jungle"
+  },
+  "B102": {
+    "code": "B102",
+    "name": "Bad Omens",
+    "song": "Limits"
+  },
+  "B201": {
+    "code": "B201",
+    "name": "Biffy Clyro",
+    "song": "That Golden Rule"
+  },
+  "B301": {
+    "code": "B301",
+    "name": "Born of Osiris",
+    "song": "Poster Child"
+  },
+  "B401": {
+    "code": "B401",
+    "name": "Breaking Benjamin",
+    "song": "So Cold"
+  },
+  "B501": {
+    "code": "B501",
+    "name": "Bring Me The Horizon",
+    "song": "Alligator Blood"
+  },
+  "B502": {
+    "code": "B502",
+    "name": "Bring Me The Horizon",
+    "song": "Anthem"
+  },
+  "B503": {
+    "code": "B503",
+    "name": "Bring Me The Horizon",
+    "song": "Chelsea Smile"
+  },
+  "B504": {
+    "code": "B504",
+    "name": "Bring Me The Horizon",
+    "song": "Crucify Me"
+  },
+  "B505": {
+    "code": "B505",
+    "name": "Bring Me The Horizon",
+    "song": "I don't know what to say"
+  },
+  "B506": {
+    "code": "B506",
+    "name": "Bring Me The Horizon",
+    "song": "Parasite Eve"
+  },
+  "B507": {
+    "code": "B507",
+    "name": "Bring Me The Horizon",
+    "song": "Sleep with One Eye Open"
+  },
+  "B508": {
+    "code": "B508",
+    "name": "Bring Me The Horizon",
+    "song": "The Comedown"
+  },
+  "B509": {
+    "code": "B509",
+    "name": "Bring Me The Horizon",
+    "song": "True Friends"
+  },
+  "B510": {
+    "code": "B510",
+    "name": "Bring Me The Horizon",
+    "song": "Visions"
+  },
+  "B511": {
+    "code": "B511",
+    "name": "Bring Me The Horizon ft BABYMETAL",
+    "song": "Kingslayer"
+  },
+  "B601": {
+    "code": "B601",
+    "name": "Bury Tomorrow",
+    "song": "Choke"
+  },
+  "C101": {
+    "code": "C101",
+    "name": "Chevelle",
+    "song": "Face To The Floor"
+  },
+  "C102": {
+    "code": "C102",
+    "name": "Chevelle",
+    "song": "Self Destructor"
+  },
+  "C201": {
+    "code": "C201",
+    "name": "Counterparts",
+    "song": "Disconnect"
+  },
+  "C301": {
+    "code": "C301",
+    "name": "Crown The Empire",
+    "song": "BLURRY (out of place)"
+  },
+  "D101": {
+    "code": "D101",
+    "name": "Dance Gavin Dance",
+    "song": "Uneasy Hearts Weigh The Most"
+  },
+  "D301": {
+    "code": "D301",
+    "name": "Deftones",
+    "song": "Back to School (Mini Maggit)"
+  },
+  "D302": {
+    "code": "D302",
+    "name": "Deftones",
+    "song": "Digital Bath"
+  },
+  "D303": {
+    "code": "D303",
+    "name": "Deftones",
+    "song": "Graphic Nature"
+  },
+  "D304": {
+    "code": "D304",
+    "name": "Deftones",
+    "song": "Hole in the Earth"
+  },
+  "D305": {
+    "code": "D305",
+    "name": "Deftones",
+    "song": "Passenger"
+  },
+  "D306": {
+    "code": "D306",
+    "name": "Deftones",
+    "song": "Royal"
+  },
+  "D401": {
+    "code": "D401",
+    "name": "Disturbed",
+    "song": "Awaken"
+  },
+  "D402": {
+    "code": "D402",
+    "name": "Disturbed",
+    "song": "Breathe"
+  },
+  "D403": {
+    "code": "D403",
+    "name": "Disturbed",
+    "song": "Decadence"
+  },
+  "D404": {
+    "code": "D404",
+    "name": "Disturbed",
+    "song": "Deify"
+  },
+  "D405": {
+    "code": "D405",
+    "name": "Disturbed",
+    "song": "Haunted"
+  },
+  "D406": {
+    "code": "D406",
+    "name": "Disturbed",
+    "song": "Indestructible"
+  },
+  "D407": {
+    "code": "D407",
+    "name": "Disturbed",
+    "song": "Inside The Fire"
+  },
+  "D408": {
+    "code": "D408",
+    "name": "Disturbed",
+    "song": "Just Stop"
+  },
+  "D409": {
+    "code": "D409",
+    "name": "Disturbed",
+    "song": "Liberate"
+  },
+  "D410": {
+    "code": "D410",
+    "name": "Disturbed",
+    "song": "Mistress"
+  },
+  "D411": {
+    "code": "D411",
+    "name": "Disturbed",
+    "song": "Pain Redefined"
+  },
+  "D412": {
+    "code": "D412",
+    "name": "Disturbed",
+    "song": "Prayer"
+  },
+  "D413": {
+    "code": "D413",
+    "name": "Disturbed",
+    "song": "Sacred Lie"
+  },
+  "D414": {
+    "code": "D414",
+    "name": "Disturbed",
+    "song": "Sons Of Plunder"
+  },
+  "D415": {
+    "code": "D415",
+    "name": "Disturbed",
+    "song": "Ten Thousand Fists"
+  },
+  "D416": {
+    "code": "D416",
+    "name": "Disturbed",
+    "song": "Violence Fetish"
+  },
+  "D417": {
+    "code": "D417",
+    "name": "Disturbed",
+    "song": "Voices"
+  },
+  "D501": {
+    "code": "D501",
+    "name": "Don Broco",
+    "song": "Everybody"
+  },
+  "D502": {
+    "code": "D502",
+    "name": "Don Broco",
+    "song": "Pretty"
+  },
+  "D503": {
+    "code": "D503",
+    "name": "Don Broco",
+    "song": "T-shirt Song"
+  },
+  "D504": {
+    "code": "D504",
+    "name": "Don-Broco",
+    "song": "Uber"
+  },
+  "D601": {
+    "code": "D601",
+    "name": "Dream On. Dreamer",
+    "song": "Darkness Brought Me Here"
+  },
+  "D701": {
+    "code": "D701",
+    "name": "Dream State",
+    "song": "Are You Ready To Live?"
+  },
+  "D702": {
+    "code": "D702",
+    "name": "Dream State",
+    "song": "Chapters"
+  },
+  "D703": {
+    "code": "D703",
+    "name": "Dream State",
+    "song": "Hand In Hand"
+  },
+  "D704": {
+    "code": "D704",
+    "name": "Dream State",
+    "song": "Monsters"
+  },
+  "D705": {
+    "code": "D705",
+    "name": "Dream State",
+    "song": "New Waves"
+  },
+  "D706": {
+    "code": "D706",
+    "name": "Dream State",
+    "song": "Open Windows"
+  },
+  "D707": {
+    "code": "D707",
+    "name": "Dream State",
+    "song": "Primrose"
+  },
+  "D708": {
+    "code": "D708",
+    "name": "Dream State",
+    "song": "Twenty Letters"
+  },
+  "D709": {
+    "code": "D709",
+    "name": "Dream State",
+    "song": "White Lies"
+  },
+  "D801": {
+	"code": "D801",
+	"name": "Drowning Pool",
+	"song": "Mute"
+  },
+  "D901": {
+    "code": "D901",
+    "name": "Dune",
+    "song": "Get It Get It"
+  },
+  "E101": {
+    "code": "E101",
+    "name": "Element Eighty",
+    "song": "Broken Promises"
+  },
+  "E201": {
+    "code": "E201",
+    "name": "Enter Shikari",
+    "song": "Anaesthetist"
+  },
+  "E202": {
+    "code": "E202",
+    "name": "Enter Shikari",
+    "song": "It Hurts"
+  },
+  "E203": {
+    "code": "E203",
+    "name": "Enter Shikari",
+    "song": "Meltdown"
+  },
+  "E204": {
+    "code": "E204",
+    "name": "Enter Shikari",
+    "song": "The Great Unknown"
+  },
+  "E301": {
+    "code": "E301",
+    "name": "Evanescence",
+    "song": "End Of The Dream"
+  },
+  "E302": {
+    "code": "E302",
+    "name": "Evanescence",
+    "song": "Oceans"
+  },
+  "E303": {
+    "code": "E303",
+    "name": "Evanescence",
+    "song": "Sweet Sacrifice"
+  },
+  "F101": {
+    "code": "F101",
+    "name": "Foals",
+    "song": "The Runner"
+  },
+  "F102": {
+    "code": "F102",
+    "name": "Foals",
+    "song": "What Went Down"
+  },
+  "G101": {
+    "code": "G101",
+    "name": "Godsmack",
+    "song": "Cryin' Like A Bitch"
+  },
+  "G102": {
+    "code": "G102",
+    "name": "Godsmack",
+    "song": "I Stand Alone"
+  },
+  "G103": {
+    "code": "G103",
+    "name": "Godsmack",
+    "song": "Love-Hate-Sex-Pain"
+  },
+  "G201": {
+    "code": "G201",
+    "name": "Gojira",
+    "song": "The Gift Of Guilt"
+  },
+  "G202": {
+    "code": "G202",
+    "name": "Gojira",
+    "song": "L'enfant Sauvage"
+  },
+  "G203": {
+    "code": "G203",
+    "name": "Gojira",
+    "song": "Pray"
+  },
+  "G301": {
+    "code": "G301",
+    "name": "Guano Apes",
+    "song": "Break The Line"
+  },
+  "H101": {
+    "code": "H101",
+    "name": "Holding Absense",
+    "song": "Like A Shadow"
+  },
+  "I101": {
+    "code": "I101",
+    "name": "In Hearts Wake",
+    "song": "Hellbringer"
+  },
+  "J101": {
+    "code": "J101",
+    "name": "Jinjer",
+    "song": "Scissors"
+  },
+  "L101": {
+    "code": "L101",
+    "name": "Like Moth To Flames",
+    "song": "Views From Halfway Down"
+  },
+  "L201": {
+    "code": "L201",
+    "name": "Linkin Park",
+    "song": "By Myself"
+  },
+  "L202": {
+    "code": "L202",
+    "name": "Linkin Park",
+    "song": "Don't Stay"
+  },
+  "L203": {
+    "code": "L203",
+    "name": "Linkin Park",
+    "song": "Figure.09"
+  },
+  "L204": {
+    "code": "L204",
+    "name": "Linkin Park",
+    "song": "Given Up"
+  },
+  "L205": {
+    "code": "L205",
+    "name": "Linkin Park",
+    "song": "Guilty All The Same"
+  },
+  "L206": {
+    "code": "L206",
+    "name": "Linkin Park",
+    "song": "Lying From You"
+  },
+  "L301": {
+    "code": "L301",
+    "name": "Lostprophets",
+    "song": "Shinobi vs Dragon Ninja"
+  },
+  "L302": {
+    "code": "L302",
+    "name": "Lostprophets",
+    "song": "To Hell We Ride"
+  },
+  "M101": {
+    "code": "M101",
+    "name": "Muse",
+    "song": "Assassin"
+  },
+  "M102": {
+    "code": "M102",
+    "name": "Muse",
+    "song": "Liquid State"
+  },
+  "M103": {
+    "code": "M103",
+    "name": "Muse",
+    "song": "MK Ultra"
+  },
+  "M104": {
+    "code": "M104",
+    "name": "Muse",
+    "song": "The Handler"
+  },
+  "M105": {
+    "code": "M105",
+    "name": "Muse",
+    "song": "The Small Print"
+  },
+  "N101": {
+    "code": "N101",
+    "name": "Normandie",
+    "song": "Hourglass"
+  },
+  "N102": {
+    "code": "N102",
+    "name": "Normandie",
+    "song": "White Flag"
+  },
+  "N201": {
+    "code": "N201",
+    "name": "Northlane",
+    "song": "Dispossession"
+  },
+  "N301": {
+    "code": "N301",
+    "name": "Nothing But Thieves",
+    "song": "Amsterdam"
+  },
+  "N401": {
+    "code": "N401",
+    "name": "Nothing More",
+    "song": "Jenny"
+  },
+  "O101": {
+    "code": "O101",
+    "name": "Ocean Grove",
+    "song": "ASK FOR THE ANTHEM"
+  },
+  "P101": {
+    "code": "P101",
+    "name": "Papa Roach",
+    "song": "Between Angels And Insects"
+  },
+  "P102": {
+    "code": "P102",
+    "name": "Papa Roach",
+    "song": "Broken Home"
+  },
+  "P103": {
+    "code": "P103",
+    "name": "Papa Roach",
+    "song": "Infest"
+  },
+  "P104": {
+    "code": "P104",
+    "name": "Papa Roach",
+    "song": "Revenge"
+  },
+  "P201": {
+    "code": "P201",
+    "name": "Paramore",
+    "song": "Ain't It Fun"
+  },
+  "P202": {
+    "code": "P202",
+    "name": "Paramore",
+    "song": "crushcrushcrush"
+  },
+  "P203": {
+    "code": "P203",
+    "name": "Paramore",
+    "song": "Fences"
+  },
+  "P204": {
+    "code": "P204",
+    "name": "Paramore",
+    "song": "Now"
+  },
+  "P205": {
+    "code": "P205",
+    "name": "Paramore",
+    "song": "Still Into You"
+  },
+  "P301": {
+    "code": "P301",
+    "name": "Polaris",
+    "song": "Hypermania"
+  },
+  "P302": {
+    "code": "P302",
+    "name": "Polaris",
+    "song": "No Rest"
+  },
+  "P401": {
+    "code": "P401",
+    "name": "Porcupine Tree",
+    "song": "Fear Of A Blank Planet"
+  },
+  "P402": {
+    "code": "P402",
+    "name": "Porcupine Tree",
+    "song": "Open Car"
+  },
+  "P501": {
+    "code": "P501",
+    "name": "Post Profit",
+    "song": "Two Toxic"
+  },
+  "P601": {
+    "code": "P601",
+    "name": "Profiler",
+    "song": "Illusion"
+  },
+  "P602": {
+    "code": "P602",
+    "name": "Profiler",
+    "song": "Luciferian"
+  },
+  "R101": {
+    "code": "R101",
+    "name": "Rain City Drive x Dayseeker",
+    "song": "Medicate Me"
+  },
+  "R201": {
+    "code": "R201",
+    "name": "Rammstein",
+    "song": "Amour"
+  },
+  "R202": {
+    "code": "R202",
+    "name": "Rammstein",
+    "song": "Rammlied"
+  },
+  "R301": {
+    "code": "R301",
+    "name": "Royal Blood",
+    "song": "Come On Over"
+  },
+  "R302": {
+    "code": "R302",
+    "name": "Royal Blood",
+    "song": "Hole In Your Heart"
+  },
+  "R303": {
+    "code": "R303",
+    "name": "Royal Blood",
+    "song": "Look Like You Know"
+  },
+  "R304": {
+    "code": "R304",
+    "name": "Royal Blood",
+    "song": "Out Of The Black"
+  },
+  "S101": {
+    "code": "S101",
+    "name": "Slipknot",
+    "song": "Custer"
+  },
+  "S102": {
+    "code": "S102",
+    "name": "Slipknot",
+    "song": "Sarcastrophe"
+  },
+  "S103": {
+    "code": "S103",
+    "name": "Slipknot",
+    "song": "Solway Firth"
+  },
+  "S201": {
+    "code": "S201",
+    "name": "Soil",
+    "song": "Unreal"
+  },
+  "S301": {
+    "code": "S301",
+    "name": "Static Dress",
+    "song": "face."
+  },  
+  "S302": {
+    "code": "S302",
+    "name": "Static Dress",
+    "song": "Pharmacy Film"
+  },
+  "S303": {
+    "code": "S303",
+    "name": "Static Dress x Underoath",
+    "song": "Nostalgia Kills"
+  },  
+  "S401": {
+    "code": "S401",
+    "name": "Stone Sour",
+    "song": "Digital (Did You Tell)"
+  },
+  "S402": {
+    "code": "S402",
+    "name": "Stone Sour",
+    "song": "Made Of Scars"
+  },
+  "S403": {
+    "code": "S403",
+    "name": "Stone Sour",
+    "song": "Reborn"
+  },
+  "S404": {
+    "code": "S404",
+    "name": "Stone Sour",
+    "song": "Tired"
+  },
+  "S501": {
+    "code": "S501",
+    "name": "Strata",
+    "song": "The Panic"
+  },
+  "S601": {
+    "code": "S601",
+    "name": "Story Of The Year",
+    "song": "And The Hero Will Drown"
+  },
+  "S701": {
+    "code": "S701",
+    "name": "Straight Shot Home",
+    "song": "Time Traveler"
+  },
+  "S801": {
+    "code": "S801",
+    "name": "System Of A Down",
+    "song": "Aerials"
+  },
+  "S802": {
+    "code": "S802",
+    "name": "System Of A Down",
+    "song": "Innervision"
+  },
+  "T101": {
+    "code": "T101",
+    "name": "Thornhill",
+    "song": "Lavender"
+  },
+  "T102": {
+    "code": "T102",
+    "name": "Thornhill",
+    "song": "Mercia"
+  },
+  "T103": {
+    "code": "T103",
+    "name": "Thornhill",
+    "song": "Paparazzi"
+  },
+  "T104": {
+    "code": "T104",
+    "name": "Thornhill",
+    "song": "Silver Swarm"
+  },
+  "T105": {
+    "code": "T105",
+    "name": "Thornhill",
+    "song": "Under The Knife"
+  },
+  "T106": {
+    "code": "T106",
+    "name": "Thornhill",
+    "song": "Viper Room"
+  },
+  "T201": {
+    "code": "T201",
+    "name": "Three Days Grace",
+    "song": "Animal I Have Become"
+  },
+  "T202": {
+    "code": "T202",
+    "name": "Three Days Grace",
+    "song": "I Hate Everything About You"
+  },
+  "T203": {
+    "code": "T203",
+    "name": "Three Days Grace",
+    "song": "Infra-Red"
+  },
+  "T204": {
+    "code": "T204",
+    "name": "Three Days Grace",
+    "song": "Over And Over"
+  },
+  "T205": {
+    "code": "T205",
+    "name": "Three Days Grace",
+    "song": "Time Of Dying"
+  },
+  "T301": {
+    "code": "T301",
+    "name": "Tool",
+    "song": "46 & 2"
+  },
+  "T302": {
+    "code": "T302",
+    "name": "Tool",
+    "song": "Pneuma"
+  },
+  "T303": {
+    "code": "T303",
+    "name": "Tool",
+    "song": "Schism"
+  },
+  "T304": {
+    "code": "T304",
+    "name": "Tool",
+    "song": "The Grudge"
+  },
+  "T305": {
+    "code": "T305",
+    "name": "Tool",
+    "song": "The Patient"
+  },
+  "T306": {
+    "code": "T306",
+    "name": "Tool",
+    "song": "The Pot"
+  },
+  "T307": {
+    "code": "T307",
+    "name": "Tool",
+    "song": "Vicarious"
+  },
+  "T401": {
+    "code": "T401",
+    "name": "Trivium",
+    "song": "Rain"
+  },
+  "V101": {
+    "code": "V101",
+    "name": "Violent Vira",
+    "song": "Burn Me With A Bible"
+  },
+  "W101": {
+    "code": "W101",
+    "name": "While She Sleeps",
+    "song": "Brainwashed"
+  },
+  "W102": {
+    "code": "W102",
+    "name": "While She Sleeps",
+    "song": "Civil Isolation"
+  },
+  "W103": {
+    "code": "W103",
+    "name": "While She Sleeps",
+    "song": "LEAVE ME ALONE"
+  },
+  "W104": {
+    "code": "W104",
+    "name": "While She Sleeps",
+    "song": "Life In Tension"
+  },
+  "W105": {
+    "code": "W105",
+    "name": "While She Sleeps",
+    "song": "New World Torture"
+  },
+  "W106": {
+    "code": "W106",
+    "name": "While She Sleeps",
+    "song": "Satisfied In Suffering"
+  },
+  "W107": {
+    "code": "W107",
+    "name": "While She Sleeps",
+    "song": "Seven Hills"
+  },
+  "W108": {
+    "code": "W108",
+    "name": "While She Sleeps",
+    "song": "SLEEPS SOCIETY"
+  },
+  "W109": {
+    "code": "W109",
+    "name": "While She Sleeps",
+    "song": "This Is The Six"
+  },
+  "W110": {
+    "code": "W110",
+    "name": "While She Sleeps",
+    "song": "Until The Death"
+  },
+  "W111": {
+    "code": "W111",
+    "name": "While She Sleeps",
+    "song": "Your Evolution"
+  },
+  "W201": {
+    "code": "W201",
+    "name": "Word Alive",
+    "song": "Dark Matter"
+  },
+  "RU01": {
+    "code": "RU01",
+    "name": "TERELYA",
+    "song": "Все могут быть веселыми"
+  },
+  "RU02": {
+    "code": "RU02",
+    "name": "Дурной Вкус",
+    "song": "Пластинки"
+  },
+  "NYA01": {
+    "code": "NYA01",
+    "name": "MY FIRST STORY",
+    "song": "KING and ASHLEY"
+  },
+  "NYA02": {
+    "code": "NYA02",
+    "name": "Survive Said the Prophet",
+    "song": "Mukanjyo"
+  },
+  "NYA03": {
+    "code": "NYA03",
+    "name": "Vickeblanka",
+    "song": "Black Rover"
+  }
+}
