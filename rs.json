@@ -1,0 +1,54 @@
+{
+  "01": {
+    "name": "Gone Wailin'",
+    "song": "Volume Dynamics"
+  },
+  "02": {
+    "name": "String Skip Saloon",
+    "song": "String Skipping"
+  },
+  "03": {
+    "name": "Ducks Redux",
+    "song": "Fretting"
+  },
+  "04": {
+    "name": "Ninja Slide N",
+    "song": "Slides"
+  },
+  "05": {
+    "name": "Scale Warriors",
+    "song": "Scales"
+  },
+  "06": {
+    "name": "Return to Castle Chordead",
+    "song": "Chords"
+  },
+  "07": {
+    "name": "Hurtlin' Hurdles",
+    "song": "Tremolo"
+  },
+  "08": {
+    "name": "Temple of Bends",
+    "song": "Bends"
+  },  
+  "09": {
+    "name": "Scale Racer",
+    "song": "Scales"
+  },
+  "10": {
+    "name": "Star Chords",
+    "song": "Chords"
+  },
+  "11": {
+    "name": "Harmonic Heist",
+    "song": "Harmonics"
+  },
+  "A1": {
+    "name": "Score Attack",
+    "song": "Any"
+  },    
+  "B1": {
+    "name": "Session mode",
+    "song": "Improvisation"
+  },   
+}
