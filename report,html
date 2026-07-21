@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Report an issue – Rocksmith Requests</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #18181b;
+      color: #efeff1;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }
+    .container {
+      max-width: 600px;
+      width: 100%;
+      background: #0e0e10;
+      padding: 30px;
+      border-radius: 12px;
+      border: 1px solid #3a3a3d;
+    }
+    h1 {
+      font-size: 24px;
+      margin-bottom: 8px;
+    }
+    p {
+      color: #adadb8;
+      margin-bottom: 20px;
+      font-size: 14px;
+    }
+    label {
+      display: block;
+      font-weight: 600;
+      margin: 16px 0 4px;
+      font-size: 14px;
+    }
+    input, textarea, select {
+      width: 100%;
+      padding: 10px 12px;
+      background: #1f1f23;
+      border: 1px solid #3a3a3d;
+      border-radius: 6px;
+      color: #efeff1;
+      font-size: 15px;
+      font-family: inherit;
+    }
+    input:focus, textarea:focus, select:focus {
+      outline: none;
+      border-color: #9147ff;
+    }
+    textarea {
+      min-height: 120px;
+      resize: vertical;
+    }
+    .btn {
+      background: #9147ff;
+      color: #fff;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 6px;
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+      width: 100%;
+      margin-top: 20px;
+      transition: background 0.2s;
+    }
+    .btn:hover {
+      background: #772ce8;
+    }
+    .btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+    #status {
+      margin-top: 16px;
+      text-align: center;
+      font-size: 14px;
+      color: #adadb8;
+    }
+    #status.success {
+      color: #2fa712;
+    }
+    #status.error {
+      color: #eb0400;
+    }
+    .back-link {
+      display: block;
+      text-align: center;
+      margin-top: 20px;
+      color: #9147ff;
+      text-decoration: none;
+      font-size: 14px;
+    }
+    .back-link:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>📢 Report an Issue</h1>
+    <p>Help us improve Rocksmith Requests. Please describe the problem or your suggestion below.</p>
+
+    <form id="report-form">
+      <label for="name">Your name (optional)</label>
+      <input type="text" id="name" name="name" placeholder="e.g. Viewer123" />
+
+      <label for="email">Your email (optional – we may reply)</label>
+      <input type="email" id="email" name="email" placeholder="you@example.com" />
+
+      <label for="issue-type">Issue type</label>
+      <select id="issue-type" name="issue-type">
+        <option value="bug">🐞 Bug / Error</option>
+        <option value="feature">💡 Feature request</option>
+        <option value="content">📄 Content issue (wrong song, missing, etc.)</option>
+        <option value="other">❓ Other</option>
+      </select>
+
+      <label for="message">Message *</label>
+      <textarea id="message" name="message" placeholder="Describe what happened or what you'd like to see..." required></textarea>
+
+      <button type="submit" class="btn" id="submit-btn">Send report</button>
+    </form>
+
+    <div id="status"></div>
+  </div>
+
+  <script>
+    const FORMSPREE_ENDPOINT = 'https://formspree.io/f/mjgnoerp';
+
+    const form = document.getElementById('report-form');
+    const status = document.getElementById('status');
+    const submitBtn = document.getElementById('submit-btn');
+
+    form.addEventListener('submit', async function(e) {
+      e.preventDefault();
+      status.textContent = '';
+      status.className = '';
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Sending...';
+
+      const formData = new FormData(form);
+      const data = Object.fromEntries(formData.entries());
+
+      try {
+        const response = await fetch(FORMSPREE_ENDPOINT, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(data)
+        });
+
+        if (response.ok) {
+          status.textContent = '✅ Report sent successfully! Thank you.';
+          status.className = 'success';
+          form.reset();
+        } else {
+          const errorText = await response.text();
+          throw new Error(errorText || 'Server error');
+        }
+      } catch (err) {
+        status.textContent = '❌ Failed to send. Please try again later or use email: ericfloaters@gmail.com';
+        status.className = 'error';
+        console.error('Formspree error:', err);
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Send report';
+      }
+    });
+  </script>
+</body>
+</html>
