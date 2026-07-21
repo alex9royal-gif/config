@@ -1,0 +1,54 @@
+{
+  "01": {
+    "name": "Session mode",
+    "song": "Shit fuck wanker"
+  },  
+  "C1": {
+    "name": "Gone Wailin'",
+    "song": "Volume Dynamics"
+  },
+  "C2": {
+    "name": "String Skip Saloon",
+    "song": "String Skipping"
+  },
+  "C3": {
+    "name": "Ducks Redux",
+    "song": "Fretting"
+  },
+  "C4": {
+    "name": "Ninja Slide N",
+    "song": "Slides"
+  },
+  "C5": {
+    "name": "Scale Warriors",
+    "song": "Scales"
+  },
+  "C6": {
+    "name": "Return to Castle Chordead",
+    "song": "Chords"
+  },
+  "C7": {
+    "name": "Hurtlin' Hurdles",
+    "song": "Tremolo"
+  },
+  "C8": {
+    "name": "Temple of Bends",
+    "song": "Bends"
+  },  
+  "C9": {
+    "name": "Scale Racer",
+    "song": "Scales"
+  },
+  "C10": {
+    "name": "Star Chords",
+    "song": "Chords"
+  },
+  "C11": {
+    "name": "Harmonic Heist",
+    "song": "Harmonics"
+  },
+  "S1": {
+    "name": "Score Attack",
+    "song": "Any"
+  }
+}
